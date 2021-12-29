@@ -1,4 +1,9 @@
 # node_js_rest_api
 
-The frontend can be found on codepen
-https://codepen.io/taruncx101/pen/YzWqzvy
+get api: http://localhost:8001/feed/posts
+post api: http://localhost:8001/feed/post
+{
+    title: 'this is the title',
+    content: 'this is the content'
+}
+
